@@ -1,6 +1,9 @@
-## Joel: a quick csv processing language
+## Joel: A compiler forked from an old school project
 
-### Team Members
+### Current Team
+- Josh Learn: jrl2196@columbia.edu 
+
+### OG Team Members
 - Mari Husain: mh3685@columbia.edu 
 - Justin Woodbridge: jrw2190@columbia.edu 
 - Josh Learn: jrl2196@columbia.edu 
